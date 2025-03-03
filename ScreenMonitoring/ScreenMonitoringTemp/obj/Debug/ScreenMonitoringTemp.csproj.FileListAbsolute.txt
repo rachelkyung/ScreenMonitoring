@@ -1,0 +1,10 @@
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\bin\Debug\ScreenMonitoringTemp.exe.config
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\bin\Debug\ScreenMonitoringTemp.exe
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\bin\Debug\ScreenMonitoringTemp.pdb
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\obj\Debug\ScreenMonitoringTemp.Properties.Resources.resources
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\obj\Debug\ScreenMonitoringTemp.Server.resources
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\obj\Debug\ScreenMonitoringTemp.csproj.GenerateResource.cache
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\obj\Debug\ScreenMonitoringTemp.csproj.CoreCompileInputs.cache
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\obj\Debug\ScreenMonitoringTemp.exe
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\obj\Debug\ScreenMonitoringTemp.pdb
+W:\C#Project\ScreenMonitoringTemp\ScreenMonitoringTemp\obj\Debug\ScreenMonitoringTemp.csprojAssemblyReference.cache
