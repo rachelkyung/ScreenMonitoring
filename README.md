@@ -7,3 +7,9 @@ This program is created for educational purposes. Therefore, the user is fully r
 5. Comply with Laws – Follow relevant laws (e.g., privacy and communication laws).
 
 The code has not been compiled, so please compile it yourself.
+
+If you find it difficult or inconvenient to use, feel free to contact me at ky3n8n4y00n@gmail.com, insta.ky3n8n4y00n, or discord.traditionalgangjeong, and I'll do my best to assist you. Please note that replies might be delayed if you contact me via email.
+
+Thank you.
+
+-This is kyung na yun from ddc girl's middle school-
